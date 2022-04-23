@@ -1,0 +1,96 @@
+.centrar{
+    align-items: center;  
+    justify-content: center;
+    text-align: center;
+}
+
+.centro{
+    height: 90vh;  
+    display: flex;     
+    align-items: center;
+    justify-content: center;
+}
+
+.flex-end{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.flex-start{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.fondBlanco{
+    background-color: white;
+}
+
+.lblFormulario{
+    font-family: "Passion One";
+    font-size: 20px;
+    margin-right: 5px
+}
+
+.navegacion{
+    font-family: "Secular One";
+    font-size: 15px;
+}
+
+.elemNavBar{
+    margin-right: 5px;
+}
+
+.margin-20{
+    margin-top: 20px;
+}
+
+.margin-40{
+    margin-top: 40px;
+}
+
+.margin-bottom-10{
+    margin-bottom: 10px;
+}
+
+.margin-bottom-40{
+    margin-bottom: 40px;
+}
+
+#body{
+    background-color: black;
+}
+
+#btnEmpeJugar{
+    background-color: #C70828;
+    color: white;
+    font-family: "Passion One";
+    font-size: 30px;
+}
+
+#divLogin{
+    border-radius: 5px;
+    padding: 30px;
+}
+
+#esloIndex{
+    font-family: "Russo One";
+    font-size: 20px;
+    color: white;
+}
+
+#logoNavBar{
+    margin-left: 10px;
+    margin-right: 50px;
+}
+
+#lblTituIndex{
+    font-family: "Paytone One";
+    font-size: 70px;
+    color: white;
+}
+
+#lblTituLogin{
+    font-family: "Russo One";
+    font-size: 40px;
+    margin-bottom: 40px;
+}
